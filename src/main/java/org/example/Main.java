@@ -73,6 +73,8 @@ public class Main {
 
     }
 
+
+
     public static void wait(int seconds) {
         try {
             Thread.sleep(seconds * 1000L);
